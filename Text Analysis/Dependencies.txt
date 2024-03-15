@@ -1,0 +1,5 @@
+1. python
+2. pandas
+3. BeautifulSoup
+4. requests
+5. nltk

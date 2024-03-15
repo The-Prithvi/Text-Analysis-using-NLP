@@ -1,0 +1,18 @@
+
+Pleas Note - Make sure to not interfare with any file/folder or their directory within "Text Analysis" folder. Keep all the files/folders as it is.
+
+
+1. Make sure that python is installed on the system.
+
+2. Open windows powershell and copy this: "pip install pandas nltk requests beautifulsoup4", paste this line in terminal and hit enter.
+
+3. Open the "Text Analysis.py" in any python editors like vs code, jupyter notebook, pycharm, etc.  and just run the code. (Dont use online editors/compilers)
+
+                                                     --  OR (No Editor required) -- 			
+
+ Make sure you are in Text Analysis folder, use right click on empty sapace and select the option "Run in terminal", in the terminal type     "python text_analysis.py" and hit enter	
+
+4. It will take around 2 to 15 minutes to excecute the code depending on the system's specifications.
+(During the excecution, there may be several warnings displayed, just ignore those)
+
+5. After Executing the code you will find "output.xlsx" file in the same folder, containg the analysised data.
